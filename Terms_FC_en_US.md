@@ -1,5 +1,7 @@
 # Terms for using works by Yuhgao for Fanmade Creations (FCs)
 
+The word "Fanmade Creations / FCs" are defined as work which are made with any amount of data/idea derived from any kind of Yuhgao's work. 
+
 ### We ask you to follow these terms:
 
 - **Do not make profit from the fanmade creations (FCs) in any ways.**
@@ -22,13 +24,16 @@
 
 ### **Note that:**
 
-- These terms only apply to works which the rights are owned by **Yuhgao, "Aoirohoukiboshi", and "hexatropica.".** Although most of our work are under these terms, but please refer to the holder of rights if the work does not belong to us, like other label-related tracks and music exclusive in rythm games.
+- These terms only apply to works which the artist/author is "Yuhgao", and the rights are owned by **Yuhgao, "Aoirohoukiboshi", and "hexatropica.".** Although most of our work are under these terms, but please refer to the holder of rights if the work does not belong to us, like other label-related tracks and music exclusive in rythm games.
     - VOCALOIDs and other software-vocalists’ songs usually have their orignal rules for the softwares and characters. Please refer to those rules, too.
 - If the work has somebody else with Yuhgao as an author, **you must gain permission from all of the contributors.** Or in other words, you must follow every rules for each creator.
     - For “Aoirohoukiboshi” works, **all music (including other composers’ work) and all illustrations from the albums/CDs are under Yuhgao’s rights** (and the **Terms**), but the **“The Star Seekers” comics/videos and all live streams of Youtube** are not. Do not use those content as a source, without the author’s permission.
         - Yes, “Continuum” (by tsuki), “Wanderer of the Purgatory” (w/tsuki and MoAI) and “empty sense” (by Fl00t) are under the **terms**.
+    - **The works of "hexatropica." which are not made by Yuhgao are not under these terms**. Please refer to each author's terms.
 - **The rules may change without any announcements.** Please refer to the newest revision of this page when you upload a work.
     - We normally do not retroactively apply new terms to old works before update, but we may individually request modifications or removal of the FC with appropriate reasons.
+- If there are FCs which does not qualify these terms and is not licensed by Yuhgao, we will charge a usage fee based on the amount of damage to our company caused by the production.
+    - For example, in the case of unauthorized reproduction, the number of downloads may be considered as the number of purchases, and a charge may be made to the site owner where the download link is posted or published.
 - If there is a conflict between the Japanese version of this document, the Japanese document should be refered.
 
 Thank you for reading and following these rules. We sincerly appreciate any kind of work under these terms, and we wish that our work can help your creative life.
